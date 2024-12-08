@@ -30,7 +30,7 @@ I have the following in flake.nix
 {
 ....
 inputs = {
-  nixvim.url = "github:ahwxorg/nixvim-config";
+  nixvim.url = "github:Guelakais/nixvim-config";
 }
 ....
 };
