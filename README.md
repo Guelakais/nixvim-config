@@ -19,7 +19,7 @@ nix run .
 To test the config without first cloning the repo simply run the following command
 
 ```sh
-nix run github:Ahwxorg/nixvim-config
+nix run github:Guelakais/nixvim-config
 ```
 
 **Add to flake:**
